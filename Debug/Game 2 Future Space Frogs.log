@@ -1,0 +1,6 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Game 2 Future Space Frogs.cpp
+C:\Users\conno\OneDrive\Documents\University Work\Games Concepts\Game 2 Future Space Frogs\Game 2 Future Space Frogs.cpp(430,15): warning C4101: 'frogY': unreferenced local variable
+C:\Users\conno\OneDrive\Documents\University Work\Games Concepts\Game 2 Future Space Frogs\Game 2 Future Space Frogs.cpp(427,14): warning C4101: 'carY': unreferenced local variable
+  Game 2 Future Space Frogs.vcxproj -> C:\Users\conno\OneDrive\Documents\University Work\Games Concepts\Game 2 Future Space Frogs\Game 2 Future Space FrogsDebug.exe
+  Copying DLLs & shaders...
